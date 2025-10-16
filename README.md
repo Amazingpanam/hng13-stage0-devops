@@ -1,6 +1,6 @@
 # HNG13 DevOps Stage 0
 
-*Name:* NGANDIYA Panason Shadrach  
-*Slack Username:* @PanasonShadrach  
+*Name:*Panason Ngandiya  
+*Slack Username:* @Panam 
 *Description:* Stage 0 DevOps deployment of an NGINX web server with a custom webpage.  
-*Server IP:* http://<your_public_ip>
+*Server IP:* http://172.174.230.72/
